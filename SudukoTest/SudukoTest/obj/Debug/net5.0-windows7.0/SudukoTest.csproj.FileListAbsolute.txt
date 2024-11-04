@@ -1,0 +1,8 @@
+C:\Users\MedNour\source\repos\SudukoTest\SudukoTest\obj\Debug\net5.0-windows7.0\SudukoTest.csproj.AssemblyReference.cache
+C:\Users\MedNour\source\repos\SudukoTest\SudukoTest\obj\Debug\net5.0-windows7.0\SudukoTest.Form1.resources
+C:\Users\MedNour\source\repos\SudukoTest\SudukoTest\obj\Debug\net5.0-windows7.0\SudukoTest.csproj.GenerateResource.cache
+C:\Users\MedNour\source\repos\SudukoTest\SudukoTest\obj\Debug\net5.0-windows7.0\SudukoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MedNour\source\repos\SudukoTest\SudukoTest\obj\Debug\net5.0-windows7.0\SudukoTest.AssemblyInfoInputs.cache
+C:\Users\MedNour\source\repos\SudukoTest\SudukoTest\obj\Debug\net5.0-windows7.0\SudukoTest.AssemblyInfo.cs
+C:\Users\MedNour\source\repos\SudukoTest\SudukoTest\obj\Debug\net5.0-windows7.0\SudukoTest.csproj.CoreCompileInputs.cache
+C:\Users\MedNour\source\repos\SudukoTest\SudukoTest\obj\Debug\net5.0-windows7.0\SudukoTest.sourcelink.json
