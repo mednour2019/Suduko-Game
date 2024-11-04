@@ -1,4 +1,5 @@
 # Suduko-Game
+# The project is in Master Branch
 Sudoku game developed in C# using Windows Forms. Challenge yourself with multiple difficulty levels, enjoy a sleek user interface, and improve your Sudoku skills!
 ![Sudoku Game](https://example.com/sudoku-screenshot.png)
 
